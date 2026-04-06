@@ -1,7 +1,8 @@
 # Data Structure Assignment
 
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name: P.RAM SIDDARTHA REDDY
+Roll Number: 03
+Ad.no CDS/2025/1208
 Course: Introduction to Data Structure  
 
 ## Description
